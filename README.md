@@ -18,5 +18,5 @@ Quick check of some Industries that machine learning is remarkable:\
 and more
 
 
-### Main resource for this repo
-https://www.udemy.com/course/python-ile-makine-ogrenmesi/ 
+### Reference
+    https://www.udemy.com/course/python-ile-makine-ogrenmesi/ 
