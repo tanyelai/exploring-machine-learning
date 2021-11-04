@@ -2,7 +2,7 @@
 Name related machine learning folders include the main structures of machine learning with nice examples.\
 Code files mostly accompanied by example data as (.csv).\
 Of course, after understanding these milestones, you should go through deep learning.\
-If you curious about Computer Vision or NLP (coming soon), check the related repos in my profile.
+If you curious about Computer Vision or NLP, check the related repos in my profile.
 
 ### Why is Machine Learning Important ?
 Nvidia defines machine learning as “the practice of using algorithms to parse data, learn from it, and then make a determination or prediction about something in the world.”\
