@@ -4,7 +4,7 @@ Code files mostly accompanied by example data as (.csv). (.json converter will b
 Of course, after understanding these milestones, you should go through deep learning.\
 If you curious about Computer Vision or Natural Language Processing, feel free to check the related repos in my profile for further information.
 
-### Why is Machine Learning Important ?
+### Why Machine Learning is Important ?
 Nvidia defines machine learning as “the practice of using algorithms to parse data, learn from it, and then make a determination or prediction about something in the world.”\
 Stanford suggests that machine learning is “the science of getting computers to act without being explicitly programmed.”\
 \
